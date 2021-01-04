@@ -1,0 +1,93 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur,",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Top 5 Css tips",
+      "body": "Lorem ipsum dolor sit amet, consectetur,",
+      "tags": [
+        "CSS",
+        "coding",
+        "webdev"
+      ]
+    },
+    {
+      "title": "Welcome to the new blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur,",
+      "tags": [
+        "webdev",
+        "coding",
+        "news"
+      ],
+      "id": 3
+    },
+    {
+      "id": 8701,
+      "title": "esese",
+      "body": "ereresre",
+      "tags": [
+        "esdsfdsa"
+      ]
+    },
+    {
+      "id": 7452,
+      "title": "test",
+      "body": "ersee sdfs",
+      "tags": [
+        "web",
+        "ewrqw"
+      ]
+    },
+    {
+      "id": 8792,
+      "title": "test",
+      "body": "testsets",
+      "tags": []
+    },
+    {
+      "id": 9393,
+      "title": "test",
+      "body": "testsets",
+      "tags": []
+    },
+    {
+      "id": 3334,
+      "title": "test",
+      "body": "testsets",
+      "tags": []
+    },
+    {
+      "id": 4927,
+      "title": "test",
+      "body": "testsets",
+      "tags": [
+        "tetest"
+      ]
+    },
+    {
+      "id": 3620,
+      "title": "test",
+      "body": "testsets",
+      "tags": [
+        "tetest"
+      ]
+    },
+    {
+      "id": 2665,
+      "title": "test e1231231",
+      "body": "2eewfrqerqerq",
+      "tags": [
+        "werqerqwereqwrqw"
+      ]
+    }
+  ]
+}
